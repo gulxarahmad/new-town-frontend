@@ -76,7 +76,7 @@ export default function InstallmentSchedule() {
           <div style={{ display: "flex", flexDirection: "row", marginTop: 20 }}>
             <div>
               <img
-                src={`${apiURL}/image/logo.png`}
+                src={`https://res.cloudinary.com/new-abadi/image/upload/v1637424190/Logo_uavi3n.png`}
                 style={{ width: 100, height: 100 }}
               />
             </div>
