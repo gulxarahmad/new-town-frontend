@@ -55,7 +55,7 @@ export default function ShowAgreement() {
               <div>
                 <p style={{ fontSize: 40, fontWeight: "bold", color: "brown" }}>
                   {" "}
-                  NEW TOWN{" "}
+                  New Home{" "}
                 </p>{" "}
               </div>{" "}
               <div>

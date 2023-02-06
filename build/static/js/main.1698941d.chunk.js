@@ -1958,7 +1958,7 @@
                                     fontWeight: "bold",
                                     color: "brown",
                                   },
-                                  children: "NEW TOWN",
+                                  children: "New Home",
                                 }),
                               }),
                               Object(G.jsx)("div", {
@@ -2477,7 +2477,7 @@
                                   fontWeight: "bold",
                                   color: "brown",
                                 },
-                                children: "NEW TOWN",
+                                children: "New Home",
                               }),
                             }),
                             Object(G.jsx)("div", {
@@ -2835,7 +2835,7 @@
                                     fontWeight: "bold",
                                     color: "brown",
                                   },
-                                  children: "NEW TOWN",
+                                  children: "New Home",
                                 }),
                               }),
                               Object(G.jsx)("div", {
@@ -3763,7 +3763,7 @@
                                   fontWeight: "bold",
                                   color: "brown",
                                 },
-                                children: "NEW TOWN",
+                                children: "New Home",
                               }),
                             }),
                             Object(G.jsx)("div", {
@@ -4028,7 +4028,7 @@
                                   fontWeight: "bold",
                                   color: "brown",
                                 },
-                                children: "NEW TOWN",
+                                children: "New Home",
                               }),
                             }),
                             Object(G.jsx)("div", {

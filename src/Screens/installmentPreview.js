@@ -59,7 +59,7 @@ export default function InstallmentPreview() {
               <div>
                 <p style={{ fontSize: 40, fontWeight: "bold", color: "brown" }}>
                   {" "}
-                  NEW TOWN{" "}
+                  New Home{" "}
                 </p>{" "}
               </div>{" "}
               <div>
@@ -201,7 +201,7 @@ export default function InstallmentPreview() {
               <div>
                 <p style={{ fontSize: 40, fontWeight: "bold", color: "brown" }}>
                   {" "}
-                  NEW TOWN{" "}
+                  New Home{" "}
                 </p>{" "}
               </div>{" "}
               <div>
