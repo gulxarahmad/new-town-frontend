@@ -7,7 +7,7 @@ export default function Header() {
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <div class="container-fluid">
         <a class="navbar-brand" href="#">
-          New Home
+          New Town
         </a>
         <button
           class="navbar-toggler"
